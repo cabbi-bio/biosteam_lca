@@ -18,6 +18,7 @@ BioSTEAM_LCA: The Biorefinery Simulation Module with Techno-Economic Analysis an
 
 
 
+*This is the archived version of this repository from the publication listed below.*
 
 Biosteam_LCA is an an agile life cycle assessment (LCA) platform that enables the fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty. It interfaces with BioSTEAM to simultaneously characterize environmental and economic metrics while enabling complete flexibility for user-defined biofuels, bioproducts, biomass compositions, and processes. This open-source, installable package allows users to perform streamlined LCAs of biorefineries. The focus of BioSTEAM-LCA is to streamline and automate early-stage environmental impact analyses of processes and technologies, and to enable rigorous sensitivity and uncertainty analyses linking process design, performance, economics, and environmental impacts.
 
@@ -93,5 +94,5 @@ BioSTEAM_LCA was created and developed by Dr. Rui Shi as part of the `Guest Grou
 
 References
 ~~~~~~~~~~~~~~~~
-[1] Shi, Rui and Jeremy S. Guest, "BioSTEAM-LCA: An Integrated Modeling Framework for Agile Life Cycle Assessment of Biorefineries Under Uncertainty. " ACS Sustainable Chemistry & Engineering. Under review. 
+[1] Shi, R., Guest, J.S. Dec. 17, 2020. “BioSTEAM-LCA: An Integrated Modeling Framework for Agile Life Cycle Assessment of Biorefineries Under Uncertainty.” ACS Sustainable Chemistry & Engineering. DOI: 10.1021/acssuschemeng.0c05998. 
 
